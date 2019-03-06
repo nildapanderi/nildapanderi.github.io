@@ -1,2 +1,1 @@
-# nildapanderi
 # nildapanderi.github.io

@@ -1,0 +1,61 @@
+#contenido {
+	background: #fff;
+	margin: 40px auto;
+	width: 880px;
+}
+
+#header {
+	background: #428a9d;
+    border-bottom: 5px solid #efefef;
+    color: #fff;
+    height: 57px;
+    padding: 1mm;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#0099CC));
+}
+
+.titulos {
+	color: #0099CC;
+	font-weight: bold;
+}
+
+#perfil{
+	width: 140px;
+    height: 140px;
+    border-radius: 11%;
+}
+.items {
+	border-bottom: 4px solid #eeeeee;
+	padding: 38px 0 38px;
+	margin: 0 18px;
+}
+
+.items ul span {
+	color: #0099CC;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.left {
+	width: 202px;
+	float: left;
+}
+
+.right {
+	float: right;
+	width: 622px;
+}
+
+#academico{
+	height: 31mm;
+}
+
+#hobbies{
+	height: 21mm;
+}
+#experiencia{
+	height: 9mm
+}
+#referencia{
+	height: 9mm
+}
+
